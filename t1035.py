@@ -7,3 +7,5 @@ for i in range(len(y)):
     total = total + y[i]
 
 print(total)
+
+#1035 数组的运用。

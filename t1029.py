@@ -9,3 +9,5 @@ if x < 1000:
         print("{:.2f}".format(x))
 else:
     print("{:.2f}".format(x * 0.5))
+
+#1029 水题，分支结构。
